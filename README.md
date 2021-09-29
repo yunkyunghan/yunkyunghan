@@ -15,6 +15,7 @@
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a><br><br>
   <b> 🌜About Me  <b><br><br>
   <a href="https://velog.io/@wheezy_han">
