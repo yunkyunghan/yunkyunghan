@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?color=F1E1A6&text=YunKyung&fontAlignY=30&height=250&fontColor=303030&fontSize=50)
+![header](https://capsule-render.vercel.app/api?color=F1E1A6&text=Yunkyung&fontAlignY=30&height=250&fontColor=303030&fontSize=50)
 
 <p align="center"> 
    <b>Hi, there<b> 👋🏻 <br><br> 
-  I'm YunKyung Han. <br><br>
+  I'm Yunkyung Han. <br><br>
   My repositories are about frontend🌱
 </p>
 <br>
