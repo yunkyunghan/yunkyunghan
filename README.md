@@ -7,7 +7,7 @@
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunkyunghan&layout=compact&hide=asp.net,php&langs_count=6)](https://github.com/yunkyunghan/github-readme-stats)
    
- <img src="http://img.shields.io/badge/-Tech%20Blog-grey?style=flat&logo=github&link=https://alpox.kr"
+ <img src="http://img.shields.io/badge/-Tech%20Blog-grey?style=flat&logo=github&link=https://velog.io/@wheezy_han"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a><Br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
